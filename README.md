@@ -1,0 +1,2 @@
+# Futures-Trading-Strategy-Evaluation-A-Comprehensive-Guide-to-Backtesting-Mean-Reversion-Alphas
+This in-depth workbook provides a complete framework for rigorously backtesting futures mean reversion strategies, including data processing, signal generation, position sizing, performance analysis, and visualization. Ideal for systematic traders looking to evaluate and optimize strategies before live deployment.
